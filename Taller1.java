@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.util.Random;
 
 // Hacer un arreglo para definir la cantidad de celdas del carrito.
@@ -12,33 +11,48 @@ public class Taller1 {
 
     }
 
-    public static int rango(20) {
+    public static int rango(20int i) {
         Random numero = new Random();
         return numero.nextInt(19+1);
     }
 
     public static int[] Arreglo() {
-        int arre.= new int[]rango(20);
-        return arre.;
+        int arre;= new int[]rango(20);
+        return new int[]{arre};
+        String celdas;
+        System.out.println("Su arreglo de celdas es: "+celdas);
+    }
+
+    public static int rango; {
+        int i;
     }
 
     private static void agregarCantidad() {
-        int carro=0;
-        int i=0;
-        if(0=<carro[i]<15) {
+        int carro;
+        if(int i=0; i=<carro[i]<15; i++) {
 
         }
     }
 
+    public static int[] valores(int[]arre) {
+        int[] valores = new int[0];
+        for (int i = 0; i < valores.length; i++) {
+            valores[i] = 500 * i;
+        }
+        valores = new int[arre.length];
+        return valores;
+    }
 
-
-    private static int generarDimensionArreglo() {
+    public static int[] Precio {
+        int precio=0;
 
     }
 
-    public static boolean carrito (celdas) {
+    private static void generarDimensionArreglo() {
 
+    }
 
-        return ();
+    public static void Carro(int[] arre) {
+        System.out.println("Los elementos del carro son: "+arre.length);
     }
 }
