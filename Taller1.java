@@ -6,11 +6,39 @@ import java.util.Random;
 public class Taller1 {
     public static void main(String[] args) {
         int celdas=0;
-        boolean carrito[] = new boolean[celdas];
+        int carro[] = new int[celdas];
+        generarDimensionArreglo();
+        agregarCantidad();
 
     }
 
-    public static boolean carrito (celdas ) {
+    public static int rango(20) {
+        Random numero = new Random();
+        return numero.nextInt(19+1);
+    }
 
+    public static int[] Arreglo() {
+        int arre.= new int[]rango(20);
+        return arre.;
+    }
+
+    private static void agregarCantidad() {
+        int carro=0;
+        int i=0;
+        if(0=<carro[i]<15) {
+
+        }
+    }
+
+
+
+    private static int generarDimensionArreglo() {
+
+    }
+
+    public static boolean carrito (celdas) {
+
+
+        return ();
     }
 }
