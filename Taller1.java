@@ -11,13 +11,13 @@ public class Taller1 {
 
     }
 
-    public static int rango(20int i) {
+    public static int rango() {
         Random numero = new Random();
         return numero.nextInt(19+1);
     }
 
     public static int[] Arreglo() {
-        int arre;= new int[]rango(20);
+        int arre= new int[](arre);
         return new int[]{arre};
         String celdas;
         System.out.println("Su arreglo de celdas es: "+celdas);
@@ -29,22 +29,21 @@ public class Taller1 {
 
     private static void agregarCantidad() {
         int carro;
-        if(int i=0; i=<carro[i]<15; i++) {
 
-        }
     }
 
     public static int[] valores(int[]arre) {
         int[] valores = new int[0];
         for (int i = 0; i < valores.length; i++) {
-            valores[i] = 500 * i;
+            valores[i] = 500*i;
         }
         valores = new int[arre.length];
         return valores;
     }
 
     public static int[] Precio {
-        int precio=0;
+        int valor=0;
+        int precio = 500;
 
     }
 
